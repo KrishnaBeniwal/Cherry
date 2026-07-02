@@ -56,9 +56,6 @@ A Discord bot that provides tracking, reminders, and utilities for the Dank Meme
 
 *(Note: The SQLite database, `reminders.db`, is automatically initialized on the first run.)*
 
-## Screenshots
-
-*(Screenshots to be added)*
 
 ## License
 
